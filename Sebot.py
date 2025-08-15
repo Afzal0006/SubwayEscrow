@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ================= CONFIG =================
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your BotFather token
+BOT_TOKEN = "8221867831:AAGUULzOPowvPpkGNRQpEylmmcTIjvbtcuE"  # Replace with your BotFather token
 # ===========================================
 
 # Game storage
